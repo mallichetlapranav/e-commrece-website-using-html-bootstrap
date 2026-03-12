@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#f4f4f4;
+}
+
+header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+header h1{
+    margin:0;
+    font-size:38px;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    margin-top:30px;
+    background:white;
+    padding:30px;
+    border-radius:8px;
+}
+
+h2{
+    color:#333;
+}
+
+p{
+    line-height:1.7;
+    color:#555;
+}
+
+.brand{
+    color:#009688;
+    font-weight:bold;
+}
+
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:40px;
+}
